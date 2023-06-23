@@ -28,7 +28,7 @@ void more_numbers(void)
 	int n;
 
 	n = 0;
-	while  n <= 9)
+	while (n <= 9)
 	{
 		numbersOneline();
 		_putchar('\n');
