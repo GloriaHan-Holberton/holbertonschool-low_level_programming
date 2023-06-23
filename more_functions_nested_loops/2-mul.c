@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isupper - main function, checks for uppercase char.
+ * mul - main function, multiplies two integers.
  * @a: input parameter 1, one multiplier
  * @b: input parameter 2, another multiplier
  * Return: 1/0 Uppercaser/other
