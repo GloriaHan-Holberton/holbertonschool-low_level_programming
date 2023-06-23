@@ -26,11 +26,11 @@ void print_square(int size)
 	int i;
 
 	i = 0;
-	if( size <= 0)
+	if (size <= 0)
 	{
 		_putchar('\n');
 	}
-	while ( i < size)
+	while (i < size)
 	{
 		print_one_line(size);
 		i = i + 1;
